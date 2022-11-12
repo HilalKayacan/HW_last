@@ -1,0 +1,62 @@
+---
+title: "HW1_LAST"
+author: "Hilal Kayacan"
+date: "2022-11-12"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 2
+    number_sections: true
+    code_folding: show
+    theme: lumen 
+      
+---
+
+# Disciplines
+
+## Molecular Biology
+
+1. Molecular biology is a very cool discipline because;
+
++ You can observe cell in detail by using **bioimaging techniques**
++ You can also *research* in different fields.
++ You can also be a great scientist.
+
+
+## Biochemistry
+
+SEROTONIN is a neurotransmitter.
+
+![](https://ocw.mit.edu/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/999a1828cfd87c370be8c4f13f3305d0_9-15f07.gif)
+
+
+## Genetics
+
+Experiment  |  Result
+----------- | ---------
+Compound    | Yes
+Solution    | No
+Buffer      | Yes
+
+
+```{r, eval = FALSE}
+
+# two plus two equals four
+
+2+2
+
+```
+```{r}
+plot(pressure)
+
+
+```
+
+```{r,mtcars}
+
+mtcars
+View(mtcars)
+
+```
+
